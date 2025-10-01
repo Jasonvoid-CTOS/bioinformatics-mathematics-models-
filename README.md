@@ -18,4 +18,4 @@ Procedures
   
 3. Place the egg in a container filled with water for about 24 hours. 
 
-
+# Notice:This bioinformatics mathematics model is using approximation data in computation process 
