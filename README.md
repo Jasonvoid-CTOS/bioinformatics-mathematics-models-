@@ -1,4 +1,4 @@
-# bioinformatics-mathematics-models-
+# bioinformatics-mathematics-models-collection
 License: MIT License.
 
 This repository is collections of my computational biology project.     
